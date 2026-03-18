@@ -1,2 +1,2 @@
 # Maze-Solver
-application of dfs, bfs and a* algos
+Application of DFS, BFS and A* algos
